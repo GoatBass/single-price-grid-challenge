@@ -6,6 +6,8 @@
 
 This projects is been created by **Eduard Garcia Arpi**
 
+Here you can check the result on [Versel!](https://single-price-grid-challenge-hazel.vercel.app/)
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
